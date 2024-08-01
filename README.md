@@ -6,7 +6,7 @@ The full course is available at [LinkedIn Learning](https://www.linkedin.com/lea
 [Lynda.com subscribers: watch here](https://www.lynda.com/AngularJS-tutorials/Angular-2-Essential-Training/540347-2.html)  
 
 
-## Course Description
+## Course Description:
 
 JavaScript frameworks help you code more quickly, by providing special functionality for developing specific types of web projects. Angular was designed by Google to address challenges programmers face building single-page applications. This course introduces you to the essentials of this "superheroic" framework, including declarative templates, two-way data binding, and dependency injection. Justin Schwartzenberger steps through the framework one feature at a time, focusing on the new component-based architecture of Angular. After completing this training, you'll be able to tackle the other project-based courses in our library and create your own Angular app.
 
